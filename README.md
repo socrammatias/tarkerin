@@ -1,6 +1,7 @@
 neofetch 
 
-  \     /\         OS: Linux Manjaro 
-    )  ( ')        Languages: Python, C++
-   (  /  )         Terminal: kitty
-    \(__)|
+  (()__(()         OS: Linux Manjaro 
+  /       \         Languages: Python, C++
+ ( /    \  \         Terminal: kitty
+  \ o o    /
+  (_()_)__/ \
