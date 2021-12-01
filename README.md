@@ -7,8 +7,9 @@
                 ||----w |
                 ||     ||
                 
-   <div align="center">
-  <a href="https://github.com/tarkerin">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=tarkerin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarkerin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+   <br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tarkerin&count_private=true&theme=dracula&show_icons=false&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarkerin&layout=compact&langs_count=4&theme=dracula&hide_border=true" /> </p>
+
