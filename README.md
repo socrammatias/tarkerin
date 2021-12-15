@@ -1,4 +1,4 @@
-    $ neofetch                       tark@github
+    $ neofetch                      
                                      -----
       yay                            OS: Manjaro Linux
         \   ^__^                     Terminal: Kitty
