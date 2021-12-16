@@ -3,7 +3,7 @@
       yay                            OS: Manjaro Linux
         \   ^__^                     Terminal: Kitty
          \  (oo)\_______             Discord: tark#1363
-            (__)\       )\/\         Languages: Python, C, C++
+            (__)\       )\/\         Languages: Python, Php, JavaScript
                 ||----w |
                 ||     ||
                 
